@@ -46,10 +46,10 @@ The core objective of this project is to build insightful reports that help stak
 
 > Click on the links below to explore each report:
 
-- 📌 [Customer Performance Report](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20Customer%20Performance%20Report.pdf)  
-- 📌 [Market Performance vs Sales Targets](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20Market%20Performance%20Report.pdf)  
-- 📌 [P&L by Fiscal Year and Months](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Months.pdf)  
-- 📌 [P&L by Markets](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)
+- 📌 [Customer Performance Report]()  
+- 📌 [Market Performance vs Sales Targets]()  
+- 📌 [P&L by Fiscal Year and Months]()  
+- 📌 [P&L by Markets]()
 
 ## 🛠️ Tools & Technologies Used
 
