@@ -43,10 +43,10 @@ The core objective of this project is to build insightful reports that help stak
 ## 📂 Reports Links
 
 
-- 📌 [Customer Performance Report](https://github.com/prachi885/Sales-and-Finance-Analytics/blob/main/AtliQ%20Customer%20Performance%20Report.pdf)  
-- 📌 [Market Performance vs Sales Targets](https://github.com/prachi885/Sales-and-Finance-Analytics/blob/main/AtliQ%20Market%20Performance%20Report.pdf)  
-- 📌 [P&L by Fiscal Year and Months](https://github.com/prachi885/Sales-and-Finance-Analytics/blob/main/AtliQ%20P%26L%20Statement%20by%20Months.pdf)  
-- 📌 [P&L by Markets](https://github.com/prachi885/Sales-and-Finance-Analytics/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)
+- [Customer Performance Report](https://github.com/prachi885/Sales-and-Finance-Analytics/blob/main/AtliQ%20Customer%20Performance%20Report.pdf)  
+- [Market Performance vs Sales Targets](https://github.com/prachi885/Sales-and-Finance-Analytics/blob/main/AtliQ%20Market%20Performance%20Report.pdf)  
+- [P&L by Fiscal Year and Months](https://github.com/prachi885/Sales-and-Finance-Analytics/blob/main/AtliQ%20P%26L%20Statement%20by%20Months.pdf)  
+- [P&L by Markets](https://github.com/prachi885/Sales-and-Finance-Analytics/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)
 
 .
 
