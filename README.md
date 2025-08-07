@@ -22,8 +22,6 @@ The core objective of this project is to build insightful reports that help stak
 2. **Profit and Loss by Markets**  
    Breakdown P&L statements by market segments for strategic benchmarking and insights.
 
-## 🧠 Lessons Learned
-
 ### 💻 Technical Skills
 - **ETL Process**: Applied Extract, Transform, Load processes to prepare clean datasets.
 - **Power Query**: Generated custom Date tables, calculated fiscal quarters and months.
@@ -42,26 +40,15 @@ The core objective of this project is to build insightful reports that help stak
 ### 🚀 Continuous Learning
 - Learned new tools and techniques, adapting to evolving business needs.
 
-## 📂 Live Reports
+## 📂 Reports Links
 
-> Click on the links below to explore each report:
 
-- 📌 [Customer Performance Report]()  
-- 📌 [Market Performance vs Sales Targets]()  
-- 📌 [P&L by Fiscal Year and Months]()  
-- 📌 [P&L by Markets]()
+- 📌 [Customer Performance Report](https://github.com/prachi885/Sales-and-Finance-Analytics/blob/main/AtliQ%20Customer%20Performance%20Report.pdf)  
+- 📌 [Market Performance vs Sales Targets](https://github.com/prachi885/Sales-and-Finance-Analytics/blob/main/AtliQ%20Market%20Performance%20Report.pdf)  
+- 📌 [P&L by Fiscal Year and Months](https://github.com/prachi885/Sales-and-Finance-Analytics/blob/main/AtliQ%20P%26L%20Statement%20by%20Months.pdf)  
+- 📌 [P&L by Markets](https://github.com/prachi885/Sales-and-Finance-Analytics/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)
 
-## 🛠️ Tools & Technologies Used
-
-- **Microsoft Excel**
-- **Power Query**
-- **Power Pivot**
-- **DAX**
-- **Data Modeling**
-
-## 🙋‍♀️ About Me
-
-I’m passionate about transforming data into meaningful business insights. This project reflects my ability to blend technical and analytical skills with real-world business problems.
+.
 
 
 
